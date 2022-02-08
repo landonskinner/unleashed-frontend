@@ -1,0 +1,71 @@
+/* .profile-card {
+    border: 2px solid grey;
+    border-radius: 1.1em;
+    margin: auto;
+    width: 50%;
+}
+
+.profile-info {
+    text-align: left;
+    width: 85%;
+    margin: auto;
+}
+
+.location {
+    margin-top: 0.25em;
+}
+
+svg {
+    vertical-align: middle;
+}
+
+hr {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    border-top: 1px solid grey;
+}
+
+.bio {
+    margin-bottom: 1em;
+}
+
+img {
+    flex-shrink: 0;
+    min-width: 100%;
+    height: 50vw;
+    object-fit: cover;
+    border-radius: 1em 1em 0 0;
+}
+
+.match-alert {
+    border: 1px solid grey;
+    width: 60%;
+    margin: auto;
+    border-radius: 1em;
+}
+
+.match-alert h3 {
+    margin: 0.5em;
+    margin-bottom: 0.25em;
+}
+
+.match-alert button {
+    margin-bottom: 0.1em;
+}
+
+h1 {
+    color: black;
+}
+
+ul {
+    list-style: none;
+    float: right;
+}
+
+li {
+    margin-bottom: 0.25em;
+}
+
+span {
+    margin-left: 0.3em;
+} */
