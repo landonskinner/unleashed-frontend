@@ -2,7 +2,7 @@
   "name": "react-rails-api-project-template-client",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://unleashed-app-project.herokuapp.com",
+  "proxy": "https://unleashed-project.herokuapp.com",
   "engines": {
     "node": "14.x"
   },
